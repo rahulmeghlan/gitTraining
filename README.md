@@ -5,6 +5,7 @@ hi my first update-smriti
 
 git add - To add a file
 git rm -To remove a file
+Srihitha
 
 
 
